@@ -3,3 +3,4 @@ Project created for microservices practise as part of training provided by Walma
 
 
 zipkin-server-2.24.3-exec -> Also this file was present at root. So this can be downloaded from internet and hence not copying it here.
+Axon Server 4.6.11 was also downloaded in the root folder
